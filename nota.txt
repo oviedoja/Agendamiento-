@@ -1,0 +1,2 @@
+Este código no tiene la base de datos de firestore puesta por obvias razones XD
+Sirve para firestore solo que en las partes donde debería ir el json no esta colocado salu2
